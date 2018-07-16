@@ -1,6 +1,7 @@
 function makeInt(n) {
-  return (parseInt(a.toString))
+  return (parseInt(n))
 }
+
 function preserveDecimal(n) {
   return (parseFloat(n))
 }
