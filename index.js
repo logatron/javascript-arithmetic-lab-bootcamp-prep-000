@@ -18,6 +18,6 @@ function dec(a) {
 }
 var a = Math.floor(Math.random() * 1000)
 var b = Math.floor(Math.random() * 1000)
-function makeInt('a', 10) {
+function makeInt(a, 10) {
   return (parseInt(a))
 }
