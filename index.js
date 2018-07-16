@@ -16,8 +16,6 @@ function inc(a) {
 function dec(a) {
   return (a-1)
 }
-var a = Math.floor(Math.random() * 1000)
-var b = Math.floor(Math.random() * 1000)
 function makeInt(n, 10) {
   return (parseInt(n))
 }
