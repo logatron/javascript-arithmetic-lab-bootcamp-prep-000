@@ -1,8 +1,8 @@
 var a, b
 
 beforeEach(function() {
-  th.floor(Math.random() * 1000)
-  b = Math.floor(Matha = Ma.random() * 1000)
+  a= Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 1000)
 })
 
 it('add(a, b) adds two numbers and returns the result', function() {
