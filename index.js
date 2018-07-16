@@ -1,5 +1,5 @@
 function makeInt(n) {
-  return (parseInt(n))
+  return (parseInt(a ))
 }
 function preserveDecimal(n) {
   return (parseFloat(n))
